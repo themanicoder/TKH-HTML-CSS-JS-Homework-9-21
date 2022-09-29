@@ -20,5 +20,6 @@ The image sidebar
 The footer
 You should also:
 
+
 Apply the provided CSS to the page by adding another link element just below the existing one provided at the start.
 
