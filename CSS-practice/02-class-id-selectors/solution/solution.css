@@ -1,0 +1,30 @@
+.number1{
+    font-family: "Verdana","Dejavu Sans", sans-serif;
+    background-color: lightcoral;
+    font-size: 24px;
+}
+
+.number2{
+    font-family: "Verdana","Dejavu Sans", sans-serif;
+    background-color: lightcoral;
+    font-size: 24px;
+}
+
+.number3{
+    font-family: "Verdana","Dejavu Sans", sans-serif;
+    background-color: lightcoral;
+    font-size: 24px;
+}
+
+#blue
+{
+color: blue;
+font-size: 36px;
+}
+
+#lightgreen
+{
+background-color: lightgreen;
+font-weight: bold;
+font-size: 24px;
+}
